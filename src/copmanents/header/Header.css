@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Black+Ops+One&family=Changa:wght@300&family=Comforter+Brush&family=Dancing+Script:wght@500&family=Faster+One&family=Lilita+One&family=Lobster&family=Monoton&family=Silkscreen&family=Special+Elite&display=swap");
+h1 {
+  font-family: "Dancing Script", cursive;
+  text-indent: 4.5rem;
+  color: white;
+}
+@media screen and (max-width: 420px) {
+  h1 {
+    font-size: 1.3rem;
+  }
+}
